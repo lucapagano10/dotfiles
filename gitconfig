@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lpagano@udesa.edu.ar
+	name = luca pagano
